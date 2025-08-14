@@ -1,10 +1,10 @@
 <!-- Dynamic Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sahil+Awatramani;B.Tech+Artificial+Intelligence+%26+Machine+Learning+Student;AI+%7C+Machine+Learning+%7C+Data+Science;Passionate+about+Human-Centric+Tech+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Sahil+Awatramani;B.Tech+Artificial+Intelligence+%26+Machine+Learning+Student;AI+%7C+Machine+Learning+%7C+Data+Science;Passionate+about+Human-Centric+Tech+Solutions" alt="Typing SVG" />
 </h1>
 
-
-<h3 align="center">B.Tech Artificial Intelligence & Machine Learning | Symbiosis Institute of Technology, Pune</h3>
+<h3 align="center">3rd-Year AIML Student at Symbiosis Institute of Technology, Pune</h3>
+<h4 align="center">Building AI-powered solutions that solve real-world problems</h4>
 
 ---
 
