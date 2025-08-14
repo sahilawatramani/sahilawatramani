@@ -41,7 +41,7 @@
 | **Custom PC Build Management System** | Web app for PC configurations with compatibility checks. | [🔗 GitHub](https://github.com/sahilawatramani/Custom-PC-Build-Management) |
 | **Diabetes Prediction Model** | Predictive analytics with scikit-learn. | [🔗 GitHub](https://github.com/sahilawatramani/Diabetes-Prediction) |
 | **GENE INSIGHTS** | Alzheimer’s risk analysis using genomic & clinical data. | [🔗 GitHub](https://github.com/r1ddh118/GENE_INSIGHTS) |
-| **Wings R Us Hybrid Recommendation System** | Hybrid recommendation engine combining Apriori and Item-Based Collaborative Filtering to predict missing cart items. Integrated fuzzy matching to map normalized predictions back to original item names. Achieved Recall@3-based optimization for business-ready deployment. | *(Repo coming soon)* |
+| **Wings R Us Hybrid Recommendation System** | Hybrid recommendation engine combining Apriori and Item-Based Collaborative Filtering to predict missing cart items. Integrated fuzzy matching to map normalized predictions back to original item names. Achieved Recall@3-based optimization for business-ready deployment. |  [🔗 GitHub](https://github.com/sahilawatramani/Recommendation-System-for-Wings-R-Us---WWT-UNRAVEL-)  |
 
 ---
 
